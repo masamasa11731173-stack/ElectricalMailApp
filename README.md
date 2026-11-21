@@ -29,9 +29,3 @@
   - `PySide6`
   - `pywin32`（Windows で Outlook 連携を使用する場合）
 
-## セットアップと起動方法
-
-1. リポジトリを取得します。
-   ```bash
-   git clone [https://github.com/](https://github.com/)<ユーザー名>/ElectricalMailApp.git
-   cd ElectricalMailApp
